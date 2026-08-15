@@ -218,7 +218,8 @@ This project is distributed under the [BSD 2-Clause License](LICENSE). Bundled a
 
 Buy the developers a coffee: ☕ ☕ ☕
 
-Let us know if you encounter a problem and we will do our best to fix it. You can support the project here: [❤️❤️❤️ D O N A T ❤️❤️❤️](https://boosty.to/stabledif)
+Let us know if you encounter a problem and we will do our best to fix it. You can support the project here: 
+[❤️❤️❤️ D O N A T ❤️❤️❤️](https://boosty.to/stabledif)
 
 **by StableDif & OreX**
 
@@ -441,6 +442,7 @@ WhisperX-Portable/
 
 Купить кофе разработчикам: ☕ ☕ ☕
 
-Сообщите о проблеме, и мы постараемся её исправить. Поддержать проект можно здесь: [❤️❤️❤️ D O N A T ❤️❤️❤️](https://boosty.to/stabledif)
+Сообщите о проблеме, и мы постараемся её исправить. Поддержать проект можно здесь: 
+[❤️❤️❤️ D O N A T ❤️❤️❤️](https://boosty.to/stabledif)
 
 **by StableDif & OreX**
